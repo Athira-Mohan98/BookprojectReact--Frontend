@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Header from '../components/Header'
+import Header from "../Components/Header";
 import { FaEye } from "react-icons/fa";
 import { useParams } from 'react-router-dom';
 import { getABookAPI, makePaymentAPI } from '../../Services/Allapi';

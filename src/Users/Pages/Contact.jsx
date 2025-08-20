@@ -2,7 +2,7 @@ import React from 'react';
 import { FaPhoneVolume, FaLocationDot } from "react-icons/fa6";
 import { MdOutlineMailOutline } from "react-icons/md";
 import { IoIosSend } from "react-icons/io";
-import Header from '../../Users/components/Header'
+import Header from "../Components/Header";
 import Footer from '../../Components/PageFooter';
 
 function Contact() {

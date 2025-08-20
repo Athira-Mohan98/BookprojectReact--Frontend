@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Header from '../components/Header'
+import Header from "../Components/Header";
 import { FaCheckCircle } from 'react-icons/fa';
 import { RiImageAddFill } from "react-icons/ri";
 import EditProfile from '../Components/EditProfile';
